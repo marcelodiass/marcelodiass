@@ -1,4 +1,4 @@
-# Olá!, me chamo Marcelo Dias
+# Olá! Me chamo Marcelo Dias
 ## Bem vindo ao meu perfil no github!
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP.
