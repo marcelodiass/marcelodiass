@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil no github!
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-- Tenho 18 anos.
+- Tenho 19 anos.
 - Atualmente estou focando meus estudos em Python e SQL.
 - Moro em São Paulo (SP).
 
