@@ -3,7 +3,7 @@
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 - Tenho 19 anos.
-- Atualmente estou focando meus estudos em Python e SQL.
+- Atualmente estou focando meus estudos no stack MERN (MongoDB, Express, React e Node.js).
 - Moro em São Paulo (SP).
 
 ## Contatos:
