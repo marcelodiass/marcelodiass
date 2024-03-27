@@ -35,10 +35,15 @@
 
 ### Bancos de Dados
 <div>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </div>
 
 ### Cloud e Controle de Versão
 <div>
-  <img src="https://skillicons.dev/icons?i=github,azure" />
+  <img src="https://skillicons.dev/icons?i=github,azure,docker" />
+</div>
+
+### OS
+<div>
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
 </div>
