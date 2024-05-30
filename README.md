@@ -1,19 +1,19 @@
-# Olá! Me chamo Marcelo Dias
-## Bem vindo ao meu perfil no github!
+# Hello my name is Marcelo!
+## Welcome to my github profile
 
-- Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-- Tenho 19 anos.
-- Atualmente estou focando meus estudos no stack MERN (MongoDB, Express, React e Node.js).
-- Moro em São Paulo (SP).
+- I am a student at FIAP (System Analysis and Development)
+- I am 19 years old.
+- My main language is Python, JS and TS.
+- I live in São Paulo, Brazil
 
-## Contatos:
+## Contact:
 
 <div>
   <a href = "mailto:marcelodias.desenvolvedor@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelohespanholdias" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Estatísticas
+## Stats
 
 <div>
   <a href="https://github.com/marcelodiass">
@@ -21,24 +21,24 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodiass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Tecnologias
-
-### Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
-</div>
+## My Stack
 
 ### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,flask" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,nodejs,express" />
 </div>
 
-### Bancos de Dados
+### Frontend
+<div>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+</div>
+
+### Databases (SQL & NoSQL)
 <div>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </div>
 
-### Cloud e Controle de Versão
+### Cloud and Version Control
 <div>
   <img src="https://skillicons.dev/icons?i=github,azure,docker" />
 </div>
