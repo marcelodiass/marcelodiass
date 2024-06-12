@@ -1,5 +1,6 @@
 # Hello my name is Marcelo!
-## Welcome to my github profile
+## I am a Backend Developer, mainly focused on Python!
+### Welcome to my github profile
 
 - I am a student at FIAP (System Analysis and Development)
 - I am 19 years old.
