@@ -4,7 +4,7 @@
 
 - I am a student at FIAP (System Analysis and Development)
 - I am 19 years old.
-- My main language is Python, JS and TS.
+- My main language is Python and JS.
 - I live in São Paulo, Brazil
 
 ## Contact:
