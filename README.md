@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Marcelo
-#### I am Backend Developer!
+### I am Backend Developer!
 ![I am Backend Developer!](./github-header-image.png)
 
-I live in São Paulo, Brazil. 19 years old, and hungered for opportunities and experiences in my professional career.
+#### I live in São Paulo, Brazil. 19 years old, and hungered for opportunities and experiences in my professional career.
 
-Skills: Python | Django | SQL & NoSQL | Nodejs | Java | C# | .Net | Docker | Azure
+### Skills: Python | Django | SQL & NoSQL | Nodejs | Java | C# | .Net | Docker | Azure
 
 - 🌱 I’m currently learning Django! 
 - 📫 How to reach me: marcelodias.desenvolvedor@gmail.com 
