@@ -17,15 +17,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodiass&show_icons=true&count_private=true&theme=dark)  
 
-### Main Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelodiass&repo=studybud&theme=dark)](https://github.com/marcelodiass/studybud)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelodiass&repo=static-generator&theme=dark)](https://github.com/marcelodiass/static-generator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelodiass&repo=recipes&theme=dark)](https://github.com/marcelodiass/recipes)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelodiass&repo=alura-space&theme=dark)](https://github.com/marcelodiass/alura-space)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelodiass&repo=bookbot&theme=dark)](https://github.com/marcelodiass/bookbot)
-
