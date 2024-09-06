@@ -4,7 +4,7 @@
 
 #### I live in São Paulo, Brazil. 19 years old, and hungered for opportunities and experiences in my professional career.
 
-### Skills: Python | Django | SQL & NoSQL | Nodejs | Java | C# | .Net | Docker | Azure
+### Skills: Python | Java | SQL & NoSQL | NodeJs | C# | Docker | Azure
 
 - 🌱 I’m currently learning Django! 
 - 📫 How to reach me: marcelodias.desenvolvedor@gmail.com 
