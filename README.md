@@ -6,7 +6,7 @@
 
 ### Skills: Python | Java | SQL & NoSQL | C# | Docker | Azure
 
-- 🌱 I’m currently learning Springboot! 
+- 🌱 I’m currently learning Springboot and microservices! 
 - 📫 How to reach me: marcelodias.desenvolvedor@gmail.com 
 - 😄 Pronouns: He/Him 
 
