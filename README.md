@@ -2,7 +2,7 @@
 ### I am Backend Developer!
 ![I am Backend Developer!](./github-header-image.png)
 
-#### I live in São Paulo, Brazil. 19 years old, and hungered for opportunities and experiences in my professional career.
+#### I live in São Paulo, Brazil. 20 years old, and hungered for opportunities and experiences in my professional career.
 
 ### Skills: Python | Java | SQL & NoSQL | C# | Docker | Azure
 
