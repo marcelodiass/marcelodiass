@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Marcelo
-### I am Backend Developer!
-![I am Backend Developer!](./github-header-image.png)
+### I am a Fullstack Developer!
 
 #### I live in São Paulo, Brazil. 20 years old, and hungered for opportunities and experiences in my professional career.
 
