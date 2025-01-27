@@ -3,7 +3,7 @@
 
 #### I live in São Paulo, Brazil. 20 years old, and hungered for opportunities and experiences in my professional career.
 
-### Skills: Python | Java | SQL & NoSQL | C# | Docker | Azure
+### Skills: Java | Javascript | SQL & NoSQL | Python | Docker
 
 - 🌱 I’m currently learning Springboot and microservices! 
 - 📫 How to reach me: marcelodias.desenvolvedor@gmail.com 
